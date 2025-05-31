@@ -1,3 +1,0 @@
-# Modular Message Passing on TON Blockchain
-
-Instructions...
