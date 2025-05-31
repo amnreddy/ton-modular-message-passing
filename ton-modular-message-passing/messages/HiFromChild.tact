@@ -1,0 +1,3 @@
+message HiFromChild {
+    string content;
+}
